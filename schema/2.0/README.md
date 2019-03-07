@@ -160,8 +160,10 @@ you add as many references as you want for your application:
 
 > ```yaml
 > version: 2.0
+>
+> id: my-awesome-app
+>
 > about:
->   id: awesome-2018
 >   title: My Awesome App
 >   description: app that makes everything awesome!
 >
@@ -202,7 +204,7 @@ you add as many references as you want for your application:
 >     uri: http://test.acme.com
 >
 >   - type: production
->     title: Database"
+>     title: Database
 >     description: Application Database
 >     uri: mongodb://prod.db.acme.com:27017/acme
 >
