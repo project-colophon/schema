@@ -152,9 +152,9 @@ you add as many references as you want for your application:
 
 | name            | type     | required | default | description                     |
 | --------------- | -------- | -------- | ------- | ------------------------------- |
-| **title**       | `String` | ✓        | `-`     | Environment Title               |
-| **description** | `String` | ✗        | `-`     | Description of this Environment |
-| **uri**         | `URI`    | ✓        | `-`     | Environment URI                 |
+| **title**       | `String` | ✓        | `-`     | Reference Title                 |
+| **description** | `String` | ✗        | `-`     | Description of this Reference   |
+| **uri**         | `URI`    | ✓        | `-`     | Reference URI                   |
 
 ###### Full Example
 
