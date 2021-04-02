@@ -37,7 +37,7 @@
     "test": "tap test --100 --coverage-report=lcov --no-browser"
   },
   "dependencies": {
-    "ajv": "^6.9.1",
+    "ajv": "^8.0.3",
     "js-yaml": "^3.12.1"
   },
   "devDependencies": {
